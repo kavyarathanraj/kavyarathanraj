@@ -7,7 +7,7 @@
 
 ## I come in peace
 
-I'm an aspiring **Software Engineer** still making my way through college. I like building and learning things that i find interesting. Currently, I'm exploring **Computer Networks** and **Computer Vision** for a project I'm working on. My ultimate goal is to build and deploy a game, *entirely on my own*.
+I'm an aspiring **Software Engineer** still making my way through college. I like building and learning things that I find interesting. Currently, I'm exploring **Computer Networks** and **Computer Vision** for a project I'm working on. My ultimate goal is to build and deploy a game, *entirely on my own*.
 
 Outside of all this, I'm pretty laid-back and easy-going.
 
