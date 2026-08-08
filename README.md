@@ -11,4 +11,4 @@ I'm an aspiring **Software Engineer** still making my way through college. I lik
 
 Outside of all this, I'm pretty laid-back and easy-going.
 
-P.S. I'm a sucker for horror movies.
+
